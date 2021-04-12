@@ -41,7 +41,7 @@ class ViewController: UIViewController {
             label.text = "Hellow, World!"
             label.textColor = .red
         } else if sender.tag == 1 {
-            label.text = "Hi, Nikita!"
+            label.text = "Hi, Friend!"
             label.textColor = .blue
         } else if sender.tag == 2 {
             label.isHidden = true
